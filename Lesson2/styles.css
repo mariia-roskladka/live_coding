@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f7f7f7;
+  font-size: 16px;
+  font-family: Karla, "sans-serif";
+  margin: 30px auto;
+}
+@import "navigation";
+@import "products";
